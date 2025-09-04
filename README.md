@@ -4,12 +4,11 @@
 💻 Apaixonado por tecnologia, programação e criação de sistemas robustos.
 
 ## 🚀 Tecnologias & Skills
-- **Back-end:** DOTNET, NestJS, Python, Java
-- **Front-end:** React, Next.js, Tailwind CSS
-- **Game Dev:** Godot (RPGFramework)
-- <p align="center">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,angular,docker,bootstrap,dotnet,godot" />
+    <img src="https://skillicons.dev/icons?i=java,lua,mysql,nestjs,nextjs,nodejs" />
+    <img src="https://skillicons.dev/icons?i=react,py,unity,ts" />
   </a>
 </p>
 
