@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou BielPatu!
+# 👋 Olá, eu sou Gabriel Patú!
 
 🎓 Atualmente estudando **Análise e Desenvolvimento de Sistemas (ADS)**  
 💻 Apaixonado por tecnologia, programação e criação de sistemas robustos.
@@ -7,6 +7,11 @@
 - **Back-end:** DOTNET, NestJS, Python, Java
 - **Front-end:** React, Next.js, Tailwind CSS
 - **Game Dev:** Godot (RPGFramework)
+- <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 ## 🛠️ Projetos em Destaque
 - [RPGCombatSystem](https://github.com/BielPatu/RPGCombatSystem) — Sistema de combate/Movimentação para RPG
